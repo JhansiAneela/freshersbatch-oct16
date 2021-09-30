@@ -1,3 +1,5 @@
-html assignment is doing
-css assignment
-javascript assignment
+num =5;
+if(num == true):
+print("yes")
+else:
+print("no")
