@@ -1,4 +1,4 @@
-num =5;
+num =6;
 if(num == true):
 print("yes")
 else:
